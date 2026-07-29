@@ -6,16 +6,39 @@
       <stop offset="100%" stop-color="#B8860B"/>
     </linearGradient>
     <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#FFD700" stop-opacity="0.05"/>
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#FFD700" stop-opacity="0.06"/>
     </linearGradient>
   </defs>
 
   <rect width="1200" height="220" fill="url(#bgGradient)"/>
 
-  <path d="M0,180 C300,220 500,140 800,180 C1000,205 1100,170 1200,190 L1200,220 L0,220 Z" fill="url(#waveGradient)"/>
-  <path d="M0,200 C250,170 550,220 850,190 C1000,175 1100,200 1200,185 L1200,220 L0,220 Z" fill="#FFD700" opacity="0.08"/>
+  <g>
+    <path d="M0,180 C300,220 500,140 800,180 C1000,205 1100,170 1200,190 L1200,220 L0,220 Z" fill="url(#waveGradient)">
+      <animate attributeName="d"
+        dur="6s"
+        repeatCount="indefinite"
+        values="
+          M0,180 C300,220 500,140 800,180 C1000,205 1100,170 1200,190 L1200,220 L0,220 Z;
+          M0,190 C300,150 500,210 800,170 C1000,150 1100,200 1200,180 L1200,220 L0,220 Z;
+          M0,180 C300,220 500,140 800,180 C1000,205 1100,170 1200,190 L1200,220 L0,220 Z
+        "/>
+    </path>
+    <path d="M0,200 C250,170 550,220 850,190 C1000,175 1100,200 1200,185 L1200,220 L0,220 Z" fill="#FFD700" opacity="0.08">
+      <animate attributeName="d"
+        dur="8s"
+        repeatCount="indefinite"
+        values="
+          M0,200 C250,170 550,220 850,190 C1000,175 1100,200 1200,185 L1200,220 L0,220 Z;
+          M0,190 C250,215 550,175 850,205 C1000,215 1100,175 1200,200 L1200,220 L0,220 Z;
+          M0,200 C250,170 550,220 850,190 C1000,175 1100,200 1200,185 L1200,220 L0,220 Z
+        "/>
+    </path>
+  </g>
 
-  <text x="600" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFD700" text-anchor="middle">Tehseen Fatima</text>
+  <text x="600" y="105" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFD700" text-anchor="middle">
+    Tehseen Fatima
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
+  </text>
   <text x="600" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#FFFFFF" text-anchor="middle">Full-Stack &amp; Mobile App Developer &#8226; AI/ML Enthusiast</text>
 </svg>
