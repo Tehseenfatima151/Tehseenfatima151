@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hi, I'm Tehseen Fatima</h1>
-<h3 align="center">Software Engineer · Full-Stack & Mobile App Developer · AI/ML Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1A1A,100:FFD700&height=200&section=header&text=Tehseen%20Fatima&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20App%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=17&descColor=ffffff" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8E54E9&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+apps;Exploring+AI%2FML+and+NLP;100+Days+of+Code+in+Python+%E2%80%94+in+progress;Turning+ideas+into+working+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+apps;Exploring+AI%2FML+and+NLP;100+Days+of+Code+in+Python+%E2%80%94+in+progress;Turning+ideas+into+working+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -139,4 +140,6 @@ Documenting daily progress with working code + full READMEs for every concept: O
 
 <p align="center"><i>Open to Software Engineering & AI/ML opportunities.</i></p>
 
-<p align="center">⭐ Thanks for stopping by — always open to collaborate on interesting projects.</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1A1A1A,100:000000&height=100&section=footer" width="100%"/>
+</p>
