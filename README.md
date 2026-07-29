@@ -106,17 +106,13 @@ Documenting daily progress with working code + full READMEs for every concept: O
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tehseenfatima151&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tehseenfatima151&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehseenfatima151&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tehseenfatima151&theme=tokyonight&hide_border=true&background=0D1117" width="60%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tehseenfatima151&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="90%" />
 </p>
+
 
 ---
 
