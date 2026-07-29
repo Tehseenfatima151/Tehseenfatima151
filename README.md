@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=200&section=header&text=Tehseen%20Fatima&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Tehseen%20Fatima&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20App%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=17" width="100%"/>
 </p>
 
 <p align="center">
@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tehseenfatima151&color=8e54e9&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/Tehseenfatima151?label=Followers&style=flat-square&color=2E9EF7" />
-</p>
 </p>
 
 <p align="center">
@@ -142,5 +141,5 @@ Documenting daily progress with working code + full READMEs for every concept: O
 <p align="center"><i>Open to Software Engineering & AI/ML opportunities.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:2E9EF7&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 </p>
